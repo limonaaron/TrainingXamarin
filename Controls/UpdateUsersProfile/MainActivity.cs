@@ -11,7 +11,7 @@ using Android.Database;
 namespace UpdateUsersProfile
 {
     [Activity(Label = "UpdateUsersProfile", MainLauncher = true, Icon = "@drawable/icon")]
-    public class MainActivity : Activity
+    public class MainActivity : Activity 
     {
         protected override void OnCreate(Bundle bundle)
         {
